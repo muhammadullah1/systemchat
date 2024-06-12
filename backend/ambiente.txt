@@ -1,0 +1,7 @@
+---- Banco de dados ----
+usuário: postgres
+senha: Nero@!23#
+banco: hagnos
+-------------------------
+
+Node v20.13.1

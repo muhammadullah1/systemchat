@@ -1,0 +1,12 @@
+
+{
+    "development": {
+      "username": "postgres",
+      "password": "Nero@!23#",
+      "database": "hagnos",
+      "host": "localhost",
+      "dialect": "postgres",
+      "port": 5432
+    }
+  }
+  
